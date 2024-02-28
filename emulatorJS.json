@@ -51,7 +51,7 @@
       "name": "TZ",
       "label": "TZ",
       "description": "Change to Your Time Zone",
-      "default": "America/Winnipeg"
+      "default": "Asia/Novosibirsk"
     }
   ]
 }
